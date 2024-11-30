@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+
+header h1{
+text-align:centre;
+background-color:palegreen;
+
+
+}
+main p{
+margin-left: 190px;
+background-color: aqua;
+font-family: Courier;
+}
+body{
+    background-color: aquamarine;
+}
+main img{
+    border: 20px;
+    border-color: darkseagreen;
+}
+footer{
+    background-color: mediumspringgreen;
+}
+h1{
+    text-align: center;
+    background-color: darkseagreen;
+    border-radius: 20px;
+}
+img{
+border:5px solid white;
+}
+footer{
+    border-radius: 3px;
+}
